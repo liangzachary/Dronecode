@@ -1,0 +1,18 @@
+command
+speed 100
+delay 5
+takeoff
+delay 1
+streamon
+delay 1
+streamoff
+delay 1
+flip r
+delay 1
+flip l
+delay 1
+flip f
+delay 1
+flip b
+delay 1
+land
